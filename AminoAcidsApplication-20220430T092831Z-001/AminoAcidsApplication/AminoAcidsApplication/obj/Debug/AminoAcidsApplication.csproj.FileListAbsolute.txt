@@ -1,0 +1,8 @@
+D:\InformatikaZadachi\AminoAcidsApplication\AminoAcidsApplication\obj\Debug\AminoAcidsApplication.csprojResolveAssemblyReference.cache
+D:\InformatikaZadachi\AminoAcidsApplication\AminoAcidsApplication\bin\Debug\AminoAcidsApplication.exe.config
+D:\InformatikaZadachi\AminoAcidsApplication\AminoAcidsApplication\bin\Debug\AminoAcidsApplication.exe
+D:\InformatikaZadachi\AminoAcidsApplication\AminoAcidsApplication\bin\Debug\AminoAcidsApplication.pdb
+D:\InformatikaZadachi\AminoAcidsApplication\AminoAcidsApplication\obj\Debug\AminoAcidsApplication.exe
+D:\InformatikaZadachi\AminoAcidsApplication\AminoAcidsApplication\obj\Debug\AminoAcidsApplication.pdb
+D:\InformatikaZadachi\AminoAcidsApplication\AminoAcidsApplication\obj\Debug\AminoAcidsApplication.MainForm.resources
+D:\InformatikaZadachi\AminoAcidsApplication\AminoAcidsApplication\obj\Debug\AminoAcidsApplication.csproj.GenerateResource.Cache

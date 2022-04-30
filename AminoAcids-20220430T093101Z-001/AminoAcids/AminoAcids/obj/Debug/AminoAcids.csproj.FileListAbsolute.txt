@@ -1,0 +1,6 @@
+D:\InformatikaZadachi\AminoAcids\AminoAcids\bin\Debug\AminoAcids.exe.config
+D:\InformatikaZadachi\AminoAcids\AminoAcids\bin\Debug\AminoAcids.exe
+D:\InformatikaZadachi\AminoAcids\AminoAcids\bin\Debug\AminoAcids.pdb
+D:\InformatikaZadachi\AminoAcids\AminoAcids\obj\Debug\AminoAcids.csprojResolveAssemblyReference.cache
+D:\InformatikaZadachi\AminoAcids\AminoAcids\obj\Debug\AminoAcids.exe
+D:\InformatikaZadachi\AminoAcids\AminoAcids\obj\Debug\AminoAcids.pdb
